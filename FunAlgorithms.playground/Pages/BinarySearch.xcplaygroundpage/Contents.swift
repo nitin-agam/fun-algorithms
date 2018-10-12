@@ -2,7 +2,6 @@
 import Foundation
 
 // Algorithm #003: Binary Search
-// Task: Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 
 func performBinarySearch(searchValue: Int, array: [Int]) -> (Bool, Int) {
     
