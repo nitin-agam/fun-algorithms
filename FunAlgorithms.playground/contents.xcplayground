@@ -4,5 +4,6 @@
         <page name='FizzBuzz'/>
         <page name='LinearSearch'/>
         <page name='BinarySearch'/>
+        <page name='CommonWord'/>
     </pages>
 </playground>
