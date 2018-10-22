@@ -5,5 +5,7 @@
         <page name='LinearSearch'/>
         <page name='BinarySearch'/>
         <page name='CommonWord'/>
+        <page name='Fibonacci'/>
+        <page name='Palindrome'/>
     </pages>
 </playground>
