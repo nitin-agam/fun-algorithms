@@ -6,6 +6,8 @@ Algorithms Included:
 - Linear Search
 - Binary Search
 - Common Word
+- Fibonacci Series
+- Palindrome (Number, String)
 
 Many more are in progress...
 
