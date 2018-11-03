@@ -7,5 +7,7 @@
         <page name='CommonWord'/>
         <page name='Fibonacci'/>
         <page name='Palindrome'/>
+        <page name='BubbleSort'/>
+        <page name='Patterns'/>
     </pages>
 </playground>
