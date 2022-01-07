@@ -8,6 +8,7 @@ Algorithms Included:
 - Common Word
 - Fibonacci Series
 - Palindrome (Number, String)
+- Grading Students (HackerRank's Problem)
 
 Many more are in progress...
 
