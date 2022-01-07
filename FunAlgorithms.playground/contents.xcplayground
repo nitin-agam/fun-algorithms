@@ -10,5 +10,6 @@
         <page name='BubbleSort'/>
         <page name='Patterns'/>
         <page name='Sum Pairs'/>
+        <page name='Grading Students'/>
     </pages>
 </playground>
