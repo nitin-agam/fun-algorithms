@@ -13,5 +13,6 @@
         <page name='Grading Students'/>
         <page name='Day of the programmer'/>
         <page name='Electronics Shop'/>
+        <page name='Picking Numbers'/>
     </pages>
 </playground>
