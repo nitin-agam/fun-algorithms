@@ -14,5 +14,6 @@
         <page name='Day of the programmer'/>
         <page name='Electronics Shop'/>
         <page name='Picking Numbers'/>
+        <page name='Valid Anagram'/>
     </pages>
 </playground>
