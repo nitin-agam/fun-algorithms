@@ -15,5 +15,6 @@
         <page name='Electronics Shop'/>
         <page name='Picking Numbers'/>
         <page name='Valid Anagram'/>
+        <page name='FirstAndLastPosition'/>
     </pages>
 </playground>
