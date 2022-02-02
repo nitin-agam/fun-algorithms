@@ -16,5 +16,6 @@
         <page name='Picking Numbers'/>
         <page name='Valid Anagram'/>
         <page name='FirstAndLastPosition'/>
+        <page name='HurdleRace'/>
     </pages>
 </playground>
