@@ -17,5 +17,6 @@
         <page name='Valid Anagram'/>
         <page name='FirstAndLastPosition'/>
         <page name='HurdleRace'/>
+        <page name='Organizing Containers'/>
     </pages>
 </playground>
