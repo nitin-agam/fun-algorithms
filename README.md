@@ -12,6 +12,12 @@
 * Day of the programmer (HackerRank's Problem)
 * Electronics Shop (HackerRank's Problem)
 * Picking Numbers (HackerRank's Problem)
+* Valid Anagram
+* First and last position
+* Hurdle Race
+* Organizing containers of balls
+* Two Sum
+
 
 
 > We try to push some problems every weeks, so follow this repo for more updates. 
