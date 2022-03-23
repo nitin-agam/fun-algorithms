@@ -1,7 +1,8 @@
 
-print("Problem Title: Valid Anagram")
 
 /*
+ Problem Title: Valid Anagram
+ 
  Given two strings s1 and s2, check if they're anagrams.
  
  Note: Two strings are anagrams if they are made of the same characters with the same frequencies.
