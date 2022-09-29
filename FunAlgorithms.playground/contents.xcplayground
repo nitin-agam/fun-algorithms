@@ -20,5 +20,6 @@
         <page name='Organizing Containers'/>
         <page name='Two Sum'/>
         <page name='Roman To Integer'/>
+        <page name='Integer To Roman'/>
     </pages>
 </playground>
