@@ -1,6 +1,7 @@
-# Welcome to Fun Algorithms page.
+## Welcome to Fun Algorithms Page.
+In this repo, you will find out the solution of many different problems asked in technical interviews. All the solutions are in Swift language.
 
-## Algorithms Included:
+### Problems Included:
 
 * FizzBuzz
 * Linear Search
@@ -18,13 +19,14 @@
 * Organizing containers of balls
 * Two Sum
 * Roman To Integer (Leetcode)
+* Integer To Roman (Leetcode)
 
 
 
 > We try to push some problems every weeks, so follow this repo for more updates. 
 
 
-### Contact
+### You may contact me at below:
 
 Feel free to reach out if you have questions or if you want to contribute in any way:
 
@@ -35,4 +37,5 @@ Feel free to reach out if you have questions or if you want to contribute in any
 
 
 
+***Happy Coding | Nitin A***
 
