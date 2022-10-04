@@ -22,5 +22,6 @@
         <page name='Roman To Integer'/>
         <page name='Integer To Roman'/>
         <page name='Defanging an IP Address'/>
+        <page name='String to Integer (atoi)'/>
     </pages>
 </playground>

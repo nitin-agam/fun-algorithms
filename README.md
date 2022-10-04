@@ -21,6 +21,7 @@ In this repo, you will find out the solution of many different problems asked in
 * Roman To Integer (LeetCode)
 * Integer To Roman (LeetCode)
 * Defanging an IP Address (LeetCode)
+* String to Integer (atoi) (LeetCode)
 
 
 
