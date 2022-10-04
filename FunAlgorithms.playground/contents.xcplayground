@@ -23,5 +23,8 @@
         <page name='Integer To Roman'/>
         <page name='Defanging an IP Address'/>
         <page name='String to Integer (atoi)'/>
+        <page name='Letter Combinations'/>
+        <page name='Strong Password Checker'/>
+        <page name='Final Value of Variable'/>
     </pages>
 </playground>
