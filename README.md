@@ -23,6 +23,7 @@ In this repo, you will find out the solution of many different problems asked in
 * Defanging an IP Address (LeetCode)
 * String to Integer (atoi) (LeetCode)
 * Final Value of Variable After Performing Operations (LeetCode)
+* Maximum Number of Words Found in Sentences (LeetCode | Easy)
 
 
 

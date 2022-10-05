@@ -26,5 +26,6 @@
         <page name='Letter Combinations'/>
         <page name='Strong Password Checker'/>
         <page name='Final Value of Variable'/>
+        <page name='Maximum Number of Words'/>
     </pages>
 </playground>
