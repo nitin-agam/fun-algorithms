@@ -28,5 +28,6 @@
         <page name='Final Value of Variable'/>
         <page name='Maximum Number of Words'/>
         <page name='Find and Replace Pattern'/>
+        <page name='Jewels and Stones'/>
     </pages>
 </playground>
