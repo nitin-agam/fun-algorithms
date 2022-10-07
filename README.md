@@ -25,13 +25,10 @@ In this repo, you will find out the solution of many different problems asked in
 * Final Value of Variable After Performing Operations (LeetCode)
 * Maximum Number of Words Found in Sentences (LeetCode | Easy)
 * Find and Replace Pattern (LeetCode | Medium)
+* Jewels and Stones (LeetCode | Easy)
 
-
-
-> We try to push some problems every weeks, so follow this repo for more updates. 
-
-
-### You may contact me at below:
+</br>
+### Contact Me
 
 Feel free to reach out if you have questions or if you want to contribute in any way:
 
@@ -39,8 +36,8 @@ Feel free to reach out if you have questions or if you want to contribute in any
 * Instagram: https://www.instagram.com/ios_geeks16/
 * Medium: https://medium.com/@nitinagam17
 
-
-
-
-***Happy Coding | Nitin A***
+</br>
+***Happy Coding !!***
+</br>
+***Nitin A***
 
