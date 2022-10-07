@@ -24,6 +24,7 @@ In this repo, you will find out the solution of many different problems asked in
 * String to Integer (atoi) (LeetCode)
 * Final Value of Variable After Performing Operations (LeetCode)
 * Maximum Number of Words Found in Sentences (LeetCode | Easy)
+* Find and Replace Pattern (LeetCode | Medium)
 
 
 
