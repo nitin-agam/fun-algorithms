@@ -3,31 +3,31 @@ In this repo, you will find out the solution of many different problems asked in
 
 ### Problems Included:
 
-* FizzBuzz
-* Linear Search
-* Binary Search
-* Common Word
-* Fibonacci Series
-* Palindrome (Number, String)
-* Grading Students (HackerRank's Problem)
-* Day of the programmer (HackerRank's Problem)
-* Electronics Shop (HackerRank's Problem)
-* Picking Numbers (HackerRank's Problem)
-* Valid Anagram
-* First and last position
-* Hurdle Race
-* Organizing containers of balls
-* Two Sum
-* Roman To Integer (LeetCode)
-* Integer To Roman (LeetCode)
-* Defanging an IP Address (LeetCode)
-* String to Integer (atoi) (LeetCode)
-* Final Value of Variable After Performing Operations (LeetCode)
-* Maximum Number of Words Found in Sentences (LeetCode | Easy)
-* Find and Replace Pattern (LeetCode | Medium)
-* Jewels and Stones (LeetCode | Easy)
-* Reverse Words in a String (LeetCode | Medium) [Nice Problem]
-* Valid Palindrome II (LeetCode | Easy)
+1. FizzBuzz
+2. Linear Search
+3. Binary Search
+4. Common Word
+5. Fibonacci Series
+6. Palindrome (Number, String)
+7. Grading Students (HackerRank's Problem)
+8. Day of the programmer (HackerRank's Problem)
+9. Electronics Shop (HackerRank's Problem)
+10. Picking Numbers (HackerRank's Problem)
+11. Valid Anagram
+12. First and last position
+13. Hurdle Race
+14. Organizing containers of balls
+15. Two Sum
+16. Roman To Integer (LeetCode)
+17. Integer To Roman (LeetCode)
+18. Defanging an IP Address (LeetCode)
+19. String to Integer (atoi) (LeetCode)
+20. Final Value of Variable After Performing Operations (LeetCode)
+21. Maximum Number of Words Found in Sentences (LeetCode | Easy)
+22. Find and Replace Pattern (LeetCode | Medium)
+23. Jewels and Stones (LeetCode | Easy)
+24. Reverse Words in a String (LeetCode | Medium) [Nice Problem]
+25. Valid Palindrome II (LeetCode | Easy)
 
 </br>
 ### Contact Me
