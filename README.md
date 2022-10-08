@@ -26,6 +26,7 @@ In this repo, you will find out the solution of many different problems asked in
 * Maximum Number of Words Found in Sentences (LeetCode | Easy)
 * Find and Replace Pattern (LeetCode | Medium)
 * Jewels and Stones (LeetCode | Easy)
+* Reverse Words in a String (LeetCode | Medium) [Nice Problem]
 
 </br>
 ### Contact Me
