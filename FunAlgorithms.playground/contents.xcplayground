@@ -30,5 +30,6 @@
         <page name='Find and Replace Pattern'/>
         <page name='Jewels and Stones'/>
         <page name='Reverse Words in a String'/>
+        <page name='Valid Palindrome II'/>
     </pages>
 </playground>
