@@ -28,6 +28,7 @@ In this repo, you will find out the solution of many different problems asked in
 23. Jewels and Stones (LeetCode | Easy)
 24. Reverse Words in a String (LeetCode | Medium) [Nice Problem]
 25. Valid Palindrome II (LeetCode | Easy)
+26. Reverse Vowels of a String (LeetCode | Easy)
 
 </br>
 ### Contact Me
