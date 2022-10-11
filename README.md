@@ -29,6 +29,7 @@ In this repo, you will find out the solution of many different problems asked in
 24. Reverse Words in a String (LeetCode | Medium) [Nice Problem]
 25. Valid Palindrome II (LeetCode | Easy)
 26. Reverse Vowels of a String (LeetCode | Easy)
+27. Fizz Buzz (LeetCode | Easy) [Nice Problem]
 
 </br>
 ### Contact Me

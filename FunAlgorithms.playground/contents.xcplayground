@@ -32,5 +32,6 @@
         <page name='Reverse Words in a String'/>
         <page name='Valid Palindrome II'/>
         <page name='Reverse Vowels of a String'/>
+        <page name='Fizz Buzz (LeetCode)'/>
     </pages>
 </playground>
