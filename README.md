@@ -1,6 +1,8 @@
 ## Welcome to Fun Algorithms Page.
 In this repo, you will find out the solution of many different problems asked in technical interviews. All the solutions are in Swift language.
 
+Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussions
+
 ### Problems Included:
 
 1. FizzBuzz
