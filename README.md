@@ -44,7 +44,6 @@ Feel free to reach out if you have questions or if you want to contribute in any
 * Medium: https://medium.com/@nitinagam17
 
 </br>
-***Happy Coding !!***
-</br>
-***Nitin A***
+
+Happy Coding !!
 
