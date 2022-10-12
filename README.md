@@ -30,6 +30,7 @@ In this repo, you will find out the solution of many different problems asked in
 25. Valid Palindrome II (LeetCode | Easy)
 26. Reverse Vowels of a String (LeetCode | Easy)
 27. Fizz Buzz (LeetCode | Easy) [Nice Problem]
+28. Keyboard Row (LeetCode | Easy) 
 
 </br>
 ### Contact Me
