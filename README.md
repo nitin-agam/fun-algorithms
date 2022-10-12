@@ -35,7 +35,8 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 28. Keyboard Row (LeetCode | Easy) 
 
 </br>
-### Contact Me
+
+## Contact Me
 
 Feel free to reach out if you have questions or if you want to contribute in any way:
 
