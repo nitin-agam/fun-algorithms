@@ -32,7 +32,8 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 25. Valid Palindrome II (LeetCode | Easy)
 26. Reverse Vowels of a String (LeetCode | Easy)
 27. Fizz Buzz (LeetCode | Easy) [Nice Problem]
-28. Keyboard Row (LeetCode | Easy) 
+28. Keyboard Row (LeetCode | Easy)
+29. Multiply Strings (LeetCode | Medium) [Important Problem] 
 
 </br>
 
