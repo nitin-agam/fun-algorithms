@@ -36,5 +36,6 @@
         <page name='Keyboard Row'/>
         <page name='Multiply Strings'/>
         <page name='Remove Duplicates from Sorted Array'/>
+        <page name='Best Time to Buy and Sell Stock II'/>
     </pages>
 </playground>
