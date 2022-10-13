@@ -34,5 +34,6 @@
         <page name='Reverse Vowels of a String'/>
         <page name='Fizz Buzz (LeetCode)'/>
         <page name='Keyboard Row'/>
+        <page name='Multiply Strings'/>
     </pages>
 </playground>
