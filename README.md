@@ -34,6 +34,8 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 27. Fizz Buzz (LeetCode | Easy) [Nice Problem]
 28. Keyboard Row (LeetCode | Easy)
 29. Multiply Strings (LeetCode | Medium) [Important Problem] 
+30. Remove Duplicates from Sorted Array (LeetCode | Easy)
+
 
 </br>
 
