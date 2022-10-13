@@ -35,5 +35,6 @@
         <page name='Fizz Buzz (LeetCode)'/>
         <page name='Keyboard Row'/>
         <page name='Multiply Strings'/>
+        <page name='Remove Duplicates from Sorted Array'/>
     </pages>
 </playground>
