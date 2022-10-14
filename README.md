@@ -37,6 +37,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 30. Remove Duplicates from Sorted Array (LeetCode | Easy)
 31. Best Time to Buy and Sell Stock II (LeetCode | Easy)
 32. Rotate Array (LeetCode | Easy)
+33. Funny String (HackerRank | Easy)
 
 
 </br>
