@@ -36,6 +36,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 29. Multiply Strings (LeetCode | Medium) [Important Problem] 
 30. Remove Duplicates from Sorted Array (LeetCode | Easy)
 31. Best Time to Buy and Sell Stock II (LeetCode | Easy)
+32. Rotate Array (LeetCode | Easy)
 
 
 </br>
