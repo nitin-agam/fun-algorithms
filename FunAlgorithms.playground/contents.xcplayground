@@ -39,5 +39,6 @@
         <page name='Best Time to Buy and Sell Stock II'/>
         <page name='Rotate Array'/>
         <page name='Funny String'/>
+        <page name='Ransom Note'/>
     </pages>
 </playground>
