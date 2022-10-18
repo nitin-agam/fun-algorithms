@@ -40,5 +40,6 @@
         <page name='Rotate Array'/>
         <page name='Funny String'/>
         <page name='Ransom Note'/>
+        <page name='Two Strings'/>
     </pages>
 </playground>
