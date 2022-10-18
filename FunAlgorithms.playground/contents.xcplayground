@@ -41,5 +41,6 @@
         <page name='Funny String'/>
         <page name='Ransom Note'/>
         <page name='Two Strings'/>
+        <page name='Partition Labels'/>
     </pages>
 </playground>
