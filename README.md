@@ -39,6 +39,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 32. Rotate Array (LeetCode | Easy)
 33. Funny String (HackerRank | Easy)
 34. Ransom Note (LeetCode | Easy)
+35. Partition Labels (LeetCode | Medium) [Nice Problem]
 
 
 </br>
