@@ -42,5 +42,7 @@
         <page name='Ransom Note'/>
         <page name='Two Strings'/>
         <page name='Partition Labels'/>
+        <page name='A Very Big Sum'/>
+        <page name='Contains Duplicate'/>
     </pages>
 </playground>
