@@ -42,6 +42,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 35. Partition Labels (LeetCode | Medium) [Nice Problem]
 35. Contains Duplicate (LeetCode | Easy)
 36. Find Digits (HackerRank | Easy)
+37. The Time in Words (HackerRank | Medium)
 
 
 </br>
