@@ -41,6 +41,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 34. Ransom Note (LeetCode | Easy)
 35. Partition Labels (LeetCode | Medium) [Nice Problem]
 35. Contains Duplicate (LeetCode | Easy)
+36. Find Digits (HackerRank | Easy)
 
 
 </br>
