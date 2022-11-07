@@ -45,5 +45,6 @@
         <page name='A Very Big Sum'/>
         <page name='Contains Duplicate'/>
         <page name='Find Digits'/>
+        <page name='The Time in Words'/>
     </pages>
 </playground>
