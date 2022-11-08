@@ -46,5 +46,6 @@
         <page name='Contains Duplicate'/>
         <page name='Find Digits'/>
         <page name='The Time in Words'/>
+        <page name='Make The String Great'/>
     </pages>
 </playground>
