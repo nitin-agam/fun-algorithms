@@ -19,7 +19,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 12. First and last position
 13. Hurdle Race
 14. Organizing containers of balls
-15. Two Sum
+15. Two Sum [Nice Problem]
 16. Roman To Integer (LeetCode)
 17. Integer To Roman (LeetCode)
 18. Defanging an IP Address (LeetCode)
