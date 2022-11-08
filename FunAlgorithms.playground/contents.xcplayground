@@ -47,5 +47,6 @@
         <page name='Find Digits'/>
         <page name='The Time in Words'/>
         <page name='Make The String Great'/>
+        <page name='First Missing Positive'/>
     </pages>
 </playground>
