@@ -44,6 +44,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 36. Find Digits (HackerRank | Easy)
 37. The Time in Words (HackerRank | Medium) [Nice Problem]
 38. Make The String Great (LeetCode | Easy)
+39. First Missing Positive (LeetCode | Hard)
 
 
 </br>
