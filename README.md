@@ -43,6 +43,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 35. Contains Duplicate (LeetCode | Easy)
 36. Find Digits (HackerRank | Easy)
 37. The Time in Words (HackerRank | Medium)
+38. Make The String Great (LeetCode | Easy)
 
 
 </br>
