@@ -48,6 +48,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 40. Longest Substring Without Repeating Characters (LeetCode | Medium) [Important Problem]
 41. Remove All Adjacent Duplicates In String (LeetCode | Easy)
 42. Circular Array Rotation (HackerRank | Easy)
+43. Time Conversion (HackerRank | Easy)
 
 
 </br>
