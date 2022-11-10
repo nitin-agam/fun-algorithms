@@ -45,6 +45,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 37. The Time in Words (HackerRank | Medium) [Nice Problem]
 38. Make The String Great (LeetCode | Easy)
 39. First Missing Positive (LeetCode | Hard)
+40. Longest Substring Without Repeating Characters (LeetCode | Medium) [Important Problem]
 
 
 </br>
