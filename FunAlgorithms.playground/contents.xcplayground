@@ -48,5 +48,6 @@
         <page name='The Time in Words'/>
         <page name='Make The String Great'/>
         <page name='First Missing Positive'/>
+        <page name='LengthOfLongestSubstring'/>
     </pages>
 </playground>
