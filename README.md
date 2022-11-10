@@ -46,6 +46,8 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 38. Make The String Great (LeetCode | Easy)
 39. First Missing Positive (LeetCode | Hard)
 40. Longest Substring Without Repeating Characters (LeetCode | Medium) [Important Problem]
+41. Remove All Adjacent Duplicates In String (LeetCode | Easy)
+
 
 
 </br>
