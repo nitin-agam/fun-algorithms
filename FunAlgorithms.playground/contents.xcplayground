@@ -50,5 +50,6 @@
         <page name='First Missing Positive'/>
         <page name='LengthOfLongestSubstring'/>
         <page name='Remove All Adjacent Duplicates In String'/>
+        <page name='Circular Array Rotation'/>
     </pages>
 </playground>
