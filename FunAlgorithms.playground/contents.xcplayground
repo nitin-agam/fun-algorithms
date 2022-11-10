@@ -49,5 +49,6 @@
         <page name='Make The String Great'/>
         <page name='First Missing Positive'/>
         <page name='LengthOfLongestSubstring'/>
+        <page name='Remove All Adjacent Duplicates In String'/>
     </pages>
 </playground>
