@@ -49,6 +49,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 41. Remove All Adjacent Duplicates In String (LeetCode | Easy)
 42. Circular Array Rotation (HackerRank | Easy)
 43. Time Conversion (HackerRank | Easy)
+44. Find Median from Data Stream (LeetCode | Hard) [Nice Problem]
 
 
 </br>
