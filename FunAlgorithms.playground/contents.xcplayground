@@ -52,5 +52,6 @@
         <page name='Remove All Adjacent Duplicates In String'/>
         <page name='Circular Array Rotation'/>
         <page name='Time Conversion'/>
+        <page name='Find Median from Data Stream'/>
     </pages>
 </playground>
