@@ -50,6 +50,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 42. Circular Array Rotation (HackerRank | Easy)
 43. Time Conversion (HackerRank | Easy)
 44. Find Median from Data Stream (LeetCode | Hard) [Nice Problem]
+45. Group Anagrams (LeetCode | Medium) [Important Problem]
 
 
 </br>
