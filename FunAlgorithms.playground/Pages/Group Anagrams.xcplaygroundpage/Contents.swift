@@ -19,7 +19,8 @@ import Foundation
 
 struct Solution {
     
-    func groupAnagrams(_ strs: [String]) -> [[String]] {
+    // Approach 1: Using sorted function for string
+    func groupAnagramsBySorted(_ strs: [String]) -> [[String]] {
         
         var mapping: [String: [String]] = [:]
         
@@ -31,8 +32,29 @@ struct Solution {
             mappingValue.value
         }
     }
+    
+    
+    // Approach 2: Using mapping frequency for string [Recommended]
+    func groupAnagramsByMapping(_ strs: [String]) -> [[String]] {
+        
+        var wordMapping: [[String: Int]: [String]] = [:]
+        
+        for index in 0..<strs.count {
+            let stringValue = strs[index]
+            var mapping: [String: Int] = [:]
+            for char in stringValue {
+                mapping[String(char), default: 0] += 1
+            }
+            wordMapping[mapping, default: []].append(stringValue)
+        }
+        
+        return wordMapping.flatMap { mappingValue in
+            mappingValue.value
+        }
+    }
 }
 
 let solution = Solution()
 let input = ["eat","tea","tan","ate","nat","bat"]
-print("Output: \(solution.groupAnagrams(input))")
+print("groupAnagramsBySorted: \(solution.groupAnagramsBySorted(input))")
+print("groupAnagramsByMapping: \(solution.groupAnagramsByMapping(input))")
