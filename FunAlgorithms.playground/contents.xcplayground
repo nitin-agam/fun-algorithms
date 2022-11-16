@@ -53,6 +53,7 @@
         <page name='Circular Array Rotation'/>
         <page name='Time Conversion'/>
         <page name='Find Median from Data Stream'/>
+        <page name='Count Complete Tree Nodes'/>
         <page name='Group Anagrams'/>
     </pages>
 </playground>
