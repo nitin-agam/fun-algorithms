@@ -63,3 +63,5 @@ class Solution {
         return 1 + self.countNodes(root?.left) + self.countNodes(root?.right)
     }
 }
+
+// For output, you can try this code on LeetCode platform.
