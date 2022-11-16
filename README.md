@@ -51,6 +51,7 @@ Checkout discussion page: https://github.com/nitin-agam/fun-algorithms/discussio
 43. Time Conversion (HackerRank | Easy)
 44. Find Median from Data Stream (LeetCode | Hard) [Nice Problem]
 45. Group Anagrams (LeetCode | Medium) [Important Problem]
+50. Count Complete Tree Nodes (LeetCode | Medium)
 
 
 </br>
